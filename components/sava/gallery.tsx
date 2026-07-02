@@ -39,13 +39,6 @@ const shots: Shot[] = [
     tag: 'Nuestro espacio',
     tagColor: 'pink',
   },
-  {
-    src: '/images/gallery-4.png',
-    alt: 'Rollos de vendaje de colores ordenados sobre una superficie clara',
-    span: '',
-    tag: 'Materiales',
-    tagColor: 'gold',
-  },
 ]
 
 const tagStyles: Record<Shot['tagColor'], string> = {
