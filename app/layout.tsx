@@ -16,9 +16,9 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Sava Recovery · Fisioterapia y Masaje en Querétaro',
+  title: 'Sava Recovery · Fisioterapia y Masaje en San Luis Potosí',
   description:
-    'Clínica de fisioterapia, masajes terapéuticos y rehabilitación en Querétaro, México. Tu cuerpo merece recuperarse bien.',
+    'Clínica de fisioterapia, masajes terapéuticos y rehabilitación en San Luis Potosí, México. Tu cuerpo merece recuperarse bien.',
   generator: 'v0.app',
   icons: {
     icon: [

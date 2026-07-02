@@ -23,7 +23,7 @@ export function Footer() {
             </p>
             <p className="mt-4 inline-flex items-center gap-2 text-sm text-cream/60">
               <MapPin className="h-4 w-4 text-gold" />
-              Querétaro, México
+              San Luis Potosí, México, Av. Carranza #1680 -4
             </p>
           </div>
 

@@ -31,7 +31,7 @@ export function Hero() {
             className="inline-flex items-center gap-2 rounded-full border border-gold/40 bg-gold/10 px-4 py-1.5 text-sm text-gold-soft"
           >
             <Star className="h-3.5 w-3.5 fill-gold text-gold" />
-            Querétaro, México
+            San Luis Potosí, México
           </motion.span>
 
           <motion.h1
